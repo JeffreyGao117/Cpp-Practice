@@ -1,6 +1,6 @@
-//
-// Created by gaoje on 4/4/2021.
-//
+/*
+ * Chapter 2 practice problems
+ */
 #include <iostream>
 #include <string>
 

@@ -6,6 +6,7 @@
 
 using std::cout; // avoid writing std::
 
+
 void content() {
     cout << "Enter your name: ";
     std::string name;
@@ -52,13 +53,47 @@ void content() {
 }
 
 
-void exercises() {
+// asterisk to form shape
+void exercise_5() {
+    // square
+    int size;
+    cout << "Size of square: ";
+    std::cin >> size;
+    cout << std::endl;
+    for (int i = size; i != 0; i--) {
+        for (int j = size; j != 0; j--) {
+            cout << '*';
+        }
+        cout << std::endl;
+    }
+}
 
+
+// countdown
+void exercise_7() {
+    for (int i = 10; i != -6; i--) {
+        cout << i << std::endl;
+    }
+}
+
+
+// namespace
+void exercise_10() {
+    int k = 0;
+    while (k != 10) {
+        using std::cout; // namespace only within scope of while loop
+        cout << '*';
+        ++k;
+    }
+    std::cout << std::endl; // out of scope of "using" so must include std::
 }
 
 
 
 int main() {
-    content();
+//    content();
+//    exercise_5();
+//    exercise_7();
+    exercise_10();
     return 0;
 }

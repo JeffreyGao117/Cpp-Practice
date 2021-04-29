@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\gaoje\Desktop\C++ Notes\Koenig Notes"
+CMAKE_SOURCE_DIR = "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\gaoje\Desktop\C++ Notes\Koenig Notes\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\gaoje\Desktop\C++ Notes\Koenig Notes\cmake-build-debug\CMakeFiles" "C:\Users\gaoje\Desktop\C++ Notes\Koenig Notes\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\gaoje\Desktop\C++ Notes\Koenig Notes\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -147,6 +147,32 @@ probs2: cmake_check_build_system
 probs2/fast:
 	$(MAKE) -f CMakeFiles\probs2.dir\build.make CMakeFiles/probs2.dir/build
 .PHONY : probs2/fast
+
+#=============================================================================
+# Target rules for targets named probs3
+
+# Build rule for target.
+probs3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 probs3
+.PHONY : probs3
+
+# fast build rule for target.
+probs3/fast:
+	$(MAKE) -f CMakeFiles\probs3.dir\build.make CMakeFiles/probs3.dir/build
+.PHONY : probs3/fast
+
+#=============================================================================
+# Target rules for targets named probs4
+
+# Build rule for target.
+probs4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 probs4
+.PHONY : probs4
+
+# fast build rule for target.
+probs4/fast:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/build
+.PHONY : probs4/fast
 
 0-probs.obj: 0-probs.cpp.obj
 
@@ -229,6 +255,60 @@ probs2/fast:
 	$(MAKE) -f CMakeFiles\probs2.dir\build.make CMakeFiles/probs2.dir/2-probs.cpp.s
 .PHONY : 2-probs.cpp.s
 
+3-probs.obj: 3-probs.cpp.obj
+
+.PHONY : 3-probs.obj
+
+# target to build an object file
+3-probs.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs3.dir\build.make CMakeFiles/probs3.dir/3-probs.cpp.obj
+.PHONY : 3-probs.cpp.obj
+
+3-probs.i: 3-probs.cpp.i
+
+.PHONY : 3-probs.i
+
+# target to preprocess a source file
+3-probs.cpp.i:
+	$(MAKE) -f CMakeFiles\probs3.dir\build.make CMakeFiles/probs3.dir/3-probs.cpp.i
+.PHONY : 3-probs.cpp.i
+
+3-probs.s: 3-probs.cpp.s
+
+.PHONY : 3-probs.s
+
+# target to generate assembly for a file
+3-probs.cpp.s:
+	$(MAKE) -f CMakeFiles\probs3.dir\build.make CMakeFiles/probs3.dir/3-probs.cpp.s
+.PHONY : 3-probs.cpp.s
+
+4-probs.obj: 4-probs.cpp.obj
+
+.PHONY : 4-probs.obj
+
+# target to build an object file
+4-probs.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.obj
+.PHONY : 4-probs.cpp.obj
+
+4-probs.i: 4-probs.cpp.i
+
+.PHONY : 4-probs.i
+
+# target to preprocess a source file
+4-probs.cpp.i:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.i
+.PHONY : 4-probs.cpp.i
+
+4-probs.s: 4-probs.cpp.s
+
+.PHONY : 4-probs.s
+
+# target to generate assembly for a file
+4-probs.cpp.s:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.s
+.PHONY : 4-probs.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -239,6 +319,8 @@ help:
 	@echo ... probs0
 	@echo ... probs1
 	@echo ... probs2
+	@echo ... probs3
+	@echo ... probs4
 	@echo ... edit_cache
 	@echo ... 0-probs.obj
 	@echo ... 0-probs.i
@@ -249,6 +331,12 @@ help:
 	@echo ... 2-probs.obj
 	@echo ... 2-probs.i
 	@echo ... 2-probs.s
+	@echo ... 3-probs.obj
+	@echo ... 3-probs.i
+	@echo ... 3-probs.s
+	@echo ... 4-probs.obj
+	@echo ... 4-probs.i
+	@echo ... 4-probs.s
 .PHONY : help
 
 

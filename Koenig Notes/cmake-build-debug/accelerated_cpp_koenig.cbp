@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs0">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs0.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs0"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs0"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs0/fast">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs0.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,15 +63,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs0/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs0/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs1">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -84,15 +84,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs1"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs1/fast">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -105,15 +105,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs1/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs2">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -126,15 +126,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs2"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="probs2/fast">
-				<Option output="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/probs2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -147,33 +147,123 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs2/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="probs3">
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="probs3/fast">
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="probs4">
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs4"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="probs4/fast">
+				<Option output="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/probs4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 probs4/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/0-probs.cpp">
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/0-probs.cpp">
 			<Option target="probs0"/>
 		</Unit>
-		<Unit filename="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/1-probs.cpp">
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/1-probs.cpp">
 			<Option target="probs1"/>
 		</Unit>
-		<Unit filename="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/2-probs.cpp">
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/2-probs.cpp">
 			<Option target="probs2"/>
 		</Unit>
-		<Unit filename="C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/CMakeLists.txt">
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/3-probs.cpp">
+			<Option target="probs3"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-probs.cpp">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

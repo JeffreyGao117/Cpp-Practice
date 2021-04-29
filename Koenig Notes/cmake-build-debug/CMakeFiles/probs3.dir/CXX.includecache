@@ -6,9 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/gaoje/Desktop/C++ Notes/Koenig Notes/1-probs.cpp
+C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/3-probs.cpp
+iomanip
+-
+ios
+-
 iostream
 -
 string
+-
+vector
+-
+algorithm
 -
 

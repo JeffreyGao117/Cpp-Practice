@@ -260,7 +260,22 @@
 		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/3-probs.cpp">
 			<Option target="probs3"/>
 		</Unit>
-		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-probs.cpp">
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/4-content.cpp">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/4-probs.cpp">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/Student_info.cpp">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/Student_info.h">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/median.cpp">
+			<Option target="probs4"/>
+		</Unit>
+		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/median.h">
 			<Option target="probs4"/>
 		</Unit>
 		<Unit filename="C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/CMakeLists.txt">

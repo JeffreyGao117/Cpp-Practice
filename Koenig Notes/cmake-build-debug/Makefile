@@ -282,32 +282,113 @@ probs4/fast:
 	$(MAKE) -f CMakeFiles\probs3.dir\build.make CMakeFiles/probs3.dir/3-probs.cpp.s
 .PHONY : 3-probs.cpp.s
 
-4-probs.obj: 4-probs.cpp.obj
+4-files/4-content.obj: 4-files/4-content.cpp.obj
 
-.PHONY : 4-probs.obj
+.PHONY : 4-files/4-content.obj
 
 # target to build an object file
-4-probs.cpp.obj:
-	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.obj
-.PHONY : 4-probs.cpp.obj
+4-files/4-content.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-content.cpp.obj
+.PHONY : 4-files/4-content.cpp.obj
 
-4-probs.i: 4-probs.cpp.i
+4-files/4-content.i: 4-files/4-content.cpp.i
 
-.PHONY : 4-probs.i
+.PHONY : 4-files/4-content.i
 
 # target to preprocess a source file
-4-probs.cpp.i:
-	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.i
-.PHONY : 4-probs.cpp.i
+4-files/4-content.cpp.i:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-content.cpp.i
+.PHONY : 4-files/4-content.cpp.i
 
-4-probs.s: 4-probs.cpp.s
+4-files/4-content.s: 4-files/4-content.cpp.s
 
-.PHONY : 4-probs.s
+.PHONY : 4-files/4-content.s
 
 # target to generate assembly for a file
-4-probs.cpp.s:
-	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-probs.cpp.s
-.PHONY : 4-probs.cpp.s
+4-files/4-content.cpp.s:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-content.cpp.s
+.PHONY : 4-files/4-content.cpp.s
+
+4-files/4-probs.obj: 4-files/4-probs.cpp.obj
+
+.PHONY : 4-files/4-probs.obj
+
+# target to build an object file
+4-files/4-probs.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj
+.PHONY : 4-files/4-probs.cpp.obj
+
+4-files/4-probs.i: 4-files/4-probs.cpp.i
+
+.PHONY : 4-files/4-probs.i
+
+# target to preprocess a source file
+4-files/4-probs.cpp.i:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-probs.cpp.i
+.PHONY : 4-files/4-probs.cpp.i
+
+4-files/4-probs.s: 4-files/4-probs.cpp.s
+
+.PHONY : 4-files/4-probs.s
+
+# target to generate assembly for a file
+4-files/4-probs.cpp.s:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/4-probs.cpp.s
+.PHONY : 4-files/4-probs.cpp.s
+
+4-files/Student_info.obj: 4-files/Student_info.cpp.obj
+
+.PHONY : 4-files/Student_info.obj
+
+# target to build an object file
+4-files/Student_info.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj
+.PHONY : 4-files/Student_info.cpp.obj
+
+4-files/Student_info.i: 4-files/Student_info.cpp.i
+
+.PHONY : 4-files/Student_info.i
+
+# target to preprocess a source file
+4-files/Student_info.cpp.i:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/Student_info.cpp.i
+.PHONY : 4-files/Student_info.cpp.i
+
+4-files/Student_info.s: 4-files/Student_info.cpp.s
+
+.PHONY : 4-files/Student_info.s
+
+# target to generate assembly for a file
+4-files/Student_info.cpp.s:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/Student_info.cpp.s
+.PHONY : 4-files/Student_info.cpp.s
+
+4-files/median.obj: 4-files/median.cpp.obj
+
+.PHONY : 4-files/median.obj
+
+# target to build an object file
+4-files/median.cpp.obj:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/median.cpp.obj
+.PHONY : 4-files/median.cpp.obj
+
+4-files/median.i: 4-files/median.cpp.i
+
+.PHONY : 4-files/median.i
+
+# target to preprocess a source file
+4-files/median.cpp.i:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/median.cpp.i
+.PHONY : 4-files/median.cpp.i
+
+4-files/median.s: 4-files/median.cpp.s
+
+.PHONY : 4-files/median.s
+
+# target to generate assembly for a file
+4-files/median.cpp.s:
+	$(MAKE) -f CMakeFiles\probs4.dir\build.make CMakeFiles/probs4.dir/4-files/median.cpp.s
+.PHONY : 4-files/median.cpp.s
 
 # Help Target
 help:
@@ -334,9 +415,18 @@ help:
 	@echo ... 3-probs.obj
 	@echo ... 3-probs.i
 	@echo ... 3-probs.s
-	@echo ... 4-probs.obj
-	@echo ... 4-probs.i
-	@echo ... 4-probs.s
+	@echo ... 4-files/4-content.obj
+	@echo ... 4-files/4-content.i
+	@echo ... 4-files/4-content.s
+	@echo ... 4-files/4-probs.obj
+	@echo ... 4-files/4-probs.i
+	@echo ... 4-files/4-probs.s
+	@echo ... 4-files/Student_info.obj
+	@echo ... 4-files/Student_info.i
+	@echo ... 4-files/Student_info.s
+	@echo ... 4-files/median.obj
+	@echo ... 4-files/median.i
+	@echo ... 4-files/median.s
 .PHONY : help
 
 

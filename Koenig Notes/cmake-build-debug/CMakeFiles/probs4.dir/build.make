@@ -56,32 +56,77 @@ include CMakeFiles/probs4.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/probs4.dir/flags.make
 
-CMakeFiles/probs4.dir/4-probs.cpp.obj: CMakeFiles/probs4.dir/flags.make
-CMakeFiles/probs4.dir/4-probs.cpp.obj: ../4-probs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/probs4.dir/4-probs.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\probs4.dir\4-probs.cpp.obj -c "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-probs.cpp"
+CMakeFiles/probs4.dir/4-files/4-content.cpp.obj: CMakeFiles/probs4.dir/flags.make
+CMakeFiles/probs4.dir/4-files/4-content.cpp.obj: ../4-files/4-content.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/probs4.dir/4-files/4-content.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\probs4.dir\4-files\4-content.cpp.obj -c "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-content.cpp"
 
-CMakeFiles/probs4.dir/4-probs.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/probs4.dir/4-probs.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-probs.cpp" > CMakeFiles\probs4.dir\4-probs.cpp.i
+CMakeFiles/probs4.dir/4-files/4-content.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/probs4.dir/4-files/4-content.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-content.cpp" > CMakeFiles\probs4.dir\4-files\4-content.cpp.i
 
-CMakeFiles/probs4.dir/4-probs.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/probs4.dir/4-probs.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-probs.cpp" -o CMakeFiles\probs4.dir\4-probs.cpp.s
+CMakeFiles/probs4.dir/4-files/4-content.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/probs4.dir/4-files/4-content.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-content.cpp" -o CMakeFiles\probs4.dir\4-files\4-content.cpp.s
+
+CMakeFiles/probs4.dir/4-files/median.cpp.obj: CMakeFiles/probs4.dir/flags.make
+CMakeFiles/probs4.dir/4-files/median.cpp.obj: ../4-files/median.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/probs4.dir/4-files/median.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\probs4.dir\4-files\median.cpp.obj -c "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\median.cpp"
+
+CMakeFiles/probs4.dir/4-files/median.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/probs4.dir/4-files/median.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\median.cpp" > CMakeFiles\probs4.dir\4-files\median.cpp.i
+
+CMakeFiles/probs4.dir/4-files/median.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/probs4.dir/4-files/median.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\median.cpp" -o CMakeFiles\probs4.dir\4-files\median.cpp.s
+
+CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj: CMakeFiles/probs4.dir/flags.make
+CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj: ../4-files/Student_info.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\probs4.dir\4-files\Student_info.cpp.obj -c "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\Student_info.cpp"
+
+CMakeFiles/probs4.dir/4-files/Student_info.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/probs4.dir/4-files/Student_info.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\Student_info.cpp" > CMakeFiles\probs4.dir\4-files\Student_info.cpp.i
+
+CMakeFiles/probs4.dir/4-files/Student_info.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/probs4.dir/4-files/Student_info.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\Student_info.cpp" -o CMakeFiles\probs4.dir\4-files\Student_info.cpp.s
+
+CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj: CMakeFiles/probs4.dir/flags.make
+CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj: ../4-files/4-probs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\probs4.dir\4-files\4-probs.cpp.obj -c "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-probs.cpp"
+
+CMakeFiles/probs4.dir/4-files/4-probs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/probs4.dir/4-files/4-probs.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-probs.cpp" > CMakeFiles\probs4.dir\4-files\4-probs.cpp.i
+
+CMakeFiles/probs4.dir/4-files/4-probs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/probs4.dir/4-files/4-probs.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\4-files\4-probs.cpp" -o CMakeFiles\probs4.dir\4-files\4-probs.cpp.s
 
 # Object files for target probs4
 probs4_OBJECTS = \
-"CMakeFiles/probs4.dir/4-probs.cpp.obj"
+"CMakeFiles/probs4.dir/4-files/4-content.cpp.obj" \
+"CMakeFiles/probs4.dir/4-files/median.cpp.obj" \
+"CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj" \
+"CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj"
 
 # External object files for target probs4
 probs4_EXTERNAL_OBJECTS =
 
-probs4.exe: CMakeFiles/probs4.dir/4-probs.cpp.obj
+probs4.exe: CMakeFiles/probs4.dir/4-files/4-content.cpp.obj
+probs4.exe: CMakeFiles/probs4.dir/4-files/median.cpp.obj
+probs4.exe: CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj
+probs4.exe: CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj
 probs4.exe: CMakeFiles/probs4.dir/build.make
 probs4.exe: CMakeFiles/probs4.dir/linklibs.rsp
 probs4.exe: CMakeFiles/probs4.dir/objects1.rsp
 probs4.exe: CMakeFiles/probs4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable probs4.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\gaoje\OneDrive\Desktop\Cpp-Practice\Koenig Notes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable probs4.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\probs4.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-probs.cpp" "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/CMakeFiles/probs4.dir/4-probs.cpp.obj"
+  "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/4-content.cpp" "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/CMakeFiles/probs4.dir/4-files/4-content.cpp.obj"
+  "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/4-probs.cpp" "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/CMakeFiles/probs4.dir/4-files/4-probs.cpp.obj"
+  "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/Student_info.cpp" "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/CMakeFiles/probs4.dir/4-files/Student_info.cpp.obj"
+  "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/4-files/median.cpp" "C:/Users/gaoje/OneDrive/Desktop/Cpp-Practice/Koenig Notes/cmake-build-debug/CMakeFiles/probs4.dir/4-files/median.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
